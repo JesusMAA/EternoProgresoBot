@@ -1,5 +1,5 @@
 const {Telegraf} = require('telegraf')
-const bot = new Telegraf('1510056164:AAFwt7zCawqvWAoZTHCHOG2C59_wt4BX2r0')
+const bot = new Telegraf(token)
 
 /**
  * Evento de nuevo usuario
