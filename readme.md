@@ -29,7 +29,7 @@ npm run dev
 ```
 
 ## Author
-* **Jesús Acevedo** - Initial Work - [Jesús Acevedo](https://github.com/JesusMAA)
+* **Jesús Acevedo** - Initial Work - [Jesús Acevedo](https://github.com/JesusMAA/)
 
 ## License
-![alt text]("https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+* [Attribution-NonCommercial 4.0 International](https://github.com/JesusMAA/EternoProgresoBot/License.txt)
