@@ -32,4 +32,4 @@ npm run dev
 * **Jesús Acevedo** - Initial Work - [Jesús Acevedo](https://github.com/JesusMAA/)
 
 ## License
-* [Attribution-NonCommercial 4.0 International](https://github.com/JesusMAA/EternoProgresoBot/License.txt)
+* [Attribution-NonCommercial 4.0 International](https://github.com/JesusMAA/EternoProgresoBot/blob/master/License.txt)
